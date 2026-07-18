@@ -738,7 +738,7 @@
     "url": "/assets/ux-report.html#scenario_81"
   },
   {
-    "status": "✅",
+    "status": "❌",
     "scenario": "Components examples page loads",
     "feature": "Core pages load without errors",
     "tags": "",
