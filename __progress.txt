@@ -1,4 +1,10 @@
 # lc-progress v1
 /components	1/1	0/0	2026-07-18T15:50:19.251Z
 /components/agent	1/1	0/0	2026-07-18T15:51:29.909Z
-crc 83bc3a0b
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-13T19:47:46.219Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	1/1	0/0	2026-09-13T19:48:09.123Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-13T19:48:24.270Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	2/2	0/0	2026-09-13T19:48:42.737Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_02/02_concepts	2/2	0/0	2026-09-13T19:49:03.788Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_03/00_setup	1/1	0/0	2026-09-13T19:49:30.493Z
+crc e2ca8b62
