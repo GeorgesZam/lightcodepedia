@@ -1,0 +1,4 @@
+# lc-progress v1
+/components	1/1	0/0	2026-07-18T15:50:19.251Z
+/components/agent	1/1	0/0	2026-07-18T15:51:29.909Z
+crc 83bc3a0b
